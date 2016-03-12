@@ -1,0 +1,97 @@
+2016-03-07 20:35:14 INFO  BaseClass:50 - Successfully initialized the browser
+2016-03-07 20:35:24 INFO  BaseClass:50 - Successfully initialized the browser
+2016-03-07 20:35:25 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 20:35:26 INFO  BaseClass:60 - Successfully closed the Browser
+2016-03-07 20:41:03 INFO  BaseClass:50 - Successfully initialized the browser
+2016-03-07 20:41:04 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 20:41:05 INFO  BaseClass:60 - Successfully closed the Browser
+2016-03-07 20:42:40 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 20:42:51 INFO  BaseClass:50 - Successfully initialized the browser
+2016-03-07 20:42:53 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 20:42:55 INFO  BaseClass:60 - Successfully closed the Browser
+2016-03-07 20:43:00 INFO  BaseClass:50 - Successfully initialized the browser
+2016-03-07 20:43:05 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 20:43:06 INFO  BaseClass:60 - Successfully closed the Browser
+2016-03-07 21:02:01 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:02:01 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:02:05 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:02:05 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:02:19 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:02:20 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:02:21 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:02:33 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:02:36 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 21:03:09 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:03:09 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:03:15 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:03:17 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:03:17 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:03:17 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:03:23 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:03:24 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:03:25 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:03:26 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:03:27 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:03:33 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:03:34 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:03:35 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:03:36 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:03:36 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 21:03:37 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:03:45 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:03:47 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 21:03:47 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:04:32 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:04:32 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:04:50 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:04:54 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:04:57 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:04:58 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:05:02 INFO  BaseClass:56 - Successfully initialized the browser
+2016-03-07 21:05:05 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 21:05:05 INFO  BaseClass:66 - Successfully closed the Browser
+2016-03-07 21:37:22 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:37:22 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:37:25 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:37:27 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:37:36 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:37:38 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:37:38 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:37:47 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:39:01 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:39:01 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:39:06 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:39:06 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:39:17 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:39:18 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:39:19 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:39:30 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:39:32 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 21:39:33 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:12 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:12 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:49:15 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:15 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:49:16 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:49:19 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:29 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:30 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:49:31 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:31 INFO  Scenario_Login:21 - Executing the Test case GB_01 Order id is  1.0
+2016-03-07 21:49:32 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:37 INFO  Scenario_Login:33 - Passed as Expected msg is matching with Actual msg
+2016-03-07 21:49:39 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:41 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:43 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:51 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:53 INFO  Scenario_Booksearch:30 - Failed as Exp ms was Sorry..'bb54jjs' does not match any product on Rediff Books. Actual msg is  
+2016-03-07 21:49:54 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:55 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:49:57 INFO  Scenario_Booksearch:25 - Passed as Exp msgSorry..'bb54jjs' does not match any product on Rediff Books.Actual msg  was Sorry..'bb54jjs' does not match any product on Rediff Books.
+2016-03-07 21:49:57 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:49:59 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:50:05 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:50:15 INFO  BaseClass:78 - Successfully initialized the browser
+2016-03-07 21:50:16 INFO  Scenario_Booksearch:47 - Passed as Exp msg7Actual msg  was 7
+2016-03-07 21:50:17 INFO  BaseClass:88 - Successfully closed the Browser
+2016-03-07 21:50:22 INFO  BaseClass:88 - Successfully closed the Browser
